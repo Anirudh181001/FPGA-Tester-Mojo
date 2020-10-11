@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="MHP FPGA V3" board="Alchitry Au" language="Lucid" version="3">
+  <files>
+    <component>reset_conditioner.luc</component>
+    <src top="true">au_top.luc</src>
+    <constraint>custom.acf</constraint>
+    <constraint>alchitry_custom.xdc</constraint>
+  </files>
+</project>
